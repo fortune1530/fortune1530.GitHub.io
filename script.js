@@ -23,7 +23,7 @@ var teeth = new Image();
 var layer_list = [
 	{
 		'image': background,
-		'src': 'img/20210630193123.png',
+		'src': '20210630193123.png',
 		'z_index': -2.25,
 		'position': {x: 0, y: 0},
 		'blend': null,
@@ -31,7 +31,7 @@ var layer_list = [
 	},
 	{
 		'image': tongue,
-		'src': 'img/20210630193138.png',
+		'src': '20210630193138.png',
 		'z_index': -1,
 		'position': {x: 0, y: 0},
 		'blend': null,
@@ -39,7 +39,7 @@ var layer_list = [
 	},
 	{
 		'image': fish,
-		'src': 'img/20210630193143.png',
+		'src': '20210630193143.png',
 		'z_index': -1.25,
 		'position': {x: 0, y: 0},
 		'blend': null,
@@ -47,7 +47,7 @@ var layer_list = [
 	},
 	{
 		'image': teeth,
-		'src': 'img/20210630193150.png',
+		'src': '20210630193150.png',
 		'z_index': -.5,
 		'position': {x: 0, y: 0},
 		'blend': null,
